@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick Arinelli
 - 👀 I’m interested in programming and design UX/UI
 - 🌱 I’m currently focusing on python, javascript, html5, css3
-- 💞️ I’m looking to collaborate on any project that i can help
+- 💞️ I’m looking to collaborate on any project that i could help
 - 📫 How to reach me > WhatsApp 55 21 994672364
 
 <!---
